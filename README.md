@@ -11,4 +11,4 @@ Directory contains R scripts and Rmarkdown files that were solely created by me,
 *ROC_AUC_PRcurves.html* - Rmarkdown HTML file of ROC curves showing predictive power of the measurements in each category, AUC to measure under ROC curves, and precision-recall curves for only looking at sensitivity vs specificity
 
 
-*ElasticNet_ModelBuilding.html* - Crude version of Rmarkdown HTML file of running machine learning method, elastic net. Includes cross-validation
+*ElasticNet_ModelBuilding.html* - Crude version of Rmarkdown HTML file of running machine learning method, elastic net, for predicting cancer subtype. Includes cross-validation of model.
