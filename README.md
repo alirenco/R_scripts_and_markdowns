@@ -12,3 +12,6 @@ Directory contains R scripts and Rmarkdown files that were solely created by me,
 
 
 *ElasticNet_ModelBuilding.html* - Crude version of Rmarkdown HTML file of running machine learning method, elastic net, for predicting cancer subtype. Includes cross-validation of model.
+
+
+*glmQLF_mouse.html* - Rmarkdown of performing quasi-likelihood negative binomial generalized log-linear model on gene expression data to perform time-series differential expression analysis for different stages of development in mice.
