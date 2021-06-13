@@ -15,3 +15,6 @@ Directory contains R scripts and Rmarkdown files that were solely created by me,
 
 
 *glmQLF_EurData_mouse.html* - Rmarkdown of performing quasi-likelihood negative binomial generalized log-linear model on gene expression data to perform time-series differential expression analysis for different stages of development in mice.
+
+
+*glmQLF_EurData_human.html* - Rmarkdown of performing quasi-likelihood negative binomial generalized log-linear model on gene expression data to perform time-series differential expression analysis for different stages of development in mice. Also, comparing these results to results from ANOVA analysis.
